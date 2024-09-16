@@ -16,8 +16,8 @@ return x / y
 
 if __name__ = "__main__":
   #sample inputs
-  x=4
-  y=8
+  x=9
+  y=12
   
   print(add(x,y))
   print(sub(x,y))
